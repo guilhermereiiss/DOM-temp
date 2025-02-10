@@ -1,0 +1,145 @@
+[
+    {
+        "id":"1",
+        "nome": "Nova Camisa Bahia 1 Branca Torcedor Masculina",
+        "imagem1": "https://cdn.awsli.com.br/2500x2500/1890/1890260/produto/277390026/3-i6s1tzs2ph.jpg",
+        "imagem2": "https://dcdn.mitiendanube.com/stores/002/907/942/products/1000381961-c37b3a3200b1514b9917157970931454-1024-1024.webp",
+        "imagem3": "https://dcdn.mitiendanube.com/stores/002/907/942/products/1000381963-3176695386ed0b7fe717157970933041-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": [ "M"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id": "2",
+        "nome": "Camisa Bahia 2024/25 Feminina - Branca",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/775/982/products/a308d2d1-5ed09cfbf6da4184f517204627840199-1024-1024.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/775/982/products/8ae4ff86-ab0d1f5f9620c047b217204627743099-1024-1024.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/775/982/products/019bd3cf-62e33f809d1b09cd1017204627763385-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": ["P"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id": "3",
+        "nome": "Camisa Juventus III Torcedor Adidas Masculina",
+        "imagem1": "https://dcdn.mitiendanube.com/stores/002/907/942/products/1000740189-c5066adc9cbf40464017363480062993-1024-1024.webp",
+        "imagem2": "https://dcdn.mitiendanube.com/stores/002/907/942/products/1000740193-cc2f0aa348a5fe0e9c17363480080074-1024-1024.webp",
+        "imagem3": "https://dcdn.mitiendanube.com/stores/002/907/942/products/1000740190-dc824f4b905b98330317363480080629-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": ["GG"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id": "4",
+        "nome": "Uniforme Infantil Juventus III ",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/055/309/products/conjunto-infantil-juventus-adidas-2024-2025-third-3-terceira-iii-azul-escuro-dourada-infanto-kit-crianca-kids-menino-oficial-original-lancamento-comprar-frete-gratis-loja-online-1-92e1e49388401245e217259966030806-640-0.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/055/309/products/conjunto-infantil-juventus-adidas-2024-2025-third-3-terceira-iii-azul-escuro-dourada-infanto-kit-crianca-kids-menino-oficial-original-lancamento-comprar-frete-gratis-loja-online-2-7d107b2cb3d6353db417259966039263-640-0.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/055/309/products/conjunto-infantil-juventus-adidas-2024-2025-third-3-terceira-iii-azul-escuro-dourada-infanto-kit-crianca-kids-menino-oficial-original-lancamento-comprar-frete-gratis-loja-online-4-0832a6f6acd467326e17259966065981-640-0.webp",
+        "preco": 90.00,
+        "tamanhos": ["P", "M", "G", "GG"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id": "5",
+        "nome": "Camisa Real Madrid Masculina Torcedor Adidas",
+        "imagem1": "https://dcdn.mitiendanube.com/stores/002/907/942/products/71ea3ce4_1000x31-28fc3b1fff530392d116935861933363-1024-1024.webp",
+        "imagem2": "https://dcdn.mitiendanube.com/stores/002/907/942/products/9d581de431-4e71aaab57f692a13216935861938224-1024-1024.webp",
+        "imagem3": "https://dcdn.mitiendanube.com/stores/002/907/942/products/c9f0d3e231-314f18a4e693f2bbc816935861937678-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": [ "G"],
+        "ano": "23/24",
+        "estoque": 1
+    },
+    {
+        "id": "6",
+        "nome": "Inter de Milão - Torcedor Masculina - Azul",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/775/982/products/whatsapp-image-2025-01-08-at-13-20-35-b02472e1663fc6ae9217364620784127-1024-1024.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/775/982/products/im-nike-mens-away-match-jersey-202425_1-3ff4e4ae0618c232bd17364620785431-1024-1024.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/775/982/products/im-nike-mens-away-match-jersey-202425_2-3dc7cbfcaf6cc6d46817364620788687-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": ["GG"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id": "7",
+        "nome": "Barcelona - Edição Especial - Preta Azul Grená",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/775/982/products/490fb668-9d0d8a7bec047cb2fc17323916427645-1024-1024.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/775/982/products/a229a975-1f19466a717c71e81917323916422542-1024-1024.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/775/982/products/2a5aafa7-f60467a5bf5934089917323916422623-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": ["GG"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id":"8",
+        "nome": "Camisa Manchester United - Masculina ",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/402/723/products/0820e7c1-cf376f3d7e57354b9b17198445986581-640-0.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/402/723/products/effbfa7b-db7399ab18d3702e2517198445929464-640-0.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/402/723/products/05acb92d-482126ceb4268c098a17198445960187-640-0.webp",
+        "preco": 90.00,
+        "tamanhos": [ "GG"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id":"9",
+        "nome": "Camisa Treino Real Madrid x LV White ",
+        "imagem1": "https://userksports.com.br/cdn/shop/files/RealMadridxLV2024-25_700x.jpg?v=1729279587",
+        "imagem2": "https://userksports.com.br/cdn/shop/files/02609f9e_700x.jpg?v=1729279587",
+        "imagem3": "https://userksports.com.br/cdn/shop/files/e7ad23c0_700x.jpg?v=1729279587",
+        "preco": 90.00,
+        "tamanhos": ["P", "M", "G", "GG"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id":"10",
+        "nome": "Camisa Bayern de Munique- Torcedor Masculina - Bege ",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/775/982/products/e1c50c89-c9838d39ef091c445c17258120547389-1024-1024.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/775/982/products/fa061538-6d0d163ceebee5867e17258120542183-1024-1024.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/775/982/products/2fa4e387-050ba9f90ff2ec455a17258120545812-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": ["G"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id":"11",
+        "nome": "Camisa Chelsea II - Jogador Masculina",
+        "imagem1": "https://userksports.com.br/cdn/shop/files/6e1c8f55_700x.jpg?v=1719953135",
+        "imagem2": "https://userksports.com.br/cdn/shop/files/1e9d6f7a_700x.jpg?v=1719953170",
+        "imagem3": "https://userksports.com.br/cdn/shop/files/1678fd32_700x.jpg?v=1719953170",
+        "preco": 90.00,
+        "tamanhos": ["G"],
+        "ano": "2023",
+        "estoque": 1
+    },
+    {
+        "id":"12",
+        "nome": "Camisa Vitoria - Torcedor Masculina - Branca",
+        "imagem1": "https://acdn.mitiendanube.com/stores/001/775/982/products/b0095c75-ee8f82dd4433f7df5a17245349030654-1024-1024.webp",
+        "imagem2": "https://acdn.mitiendanube.com/stores/001/775/982/products/7758e5e0-e5668edb23cb3cf4a117245349010144-1024-1024.webp",
+        "imagem3": "https://acdn.mitiendanube.com/stores/001/775/982/products/klviubeejpthgjw-614a18922f28f1ce3717245349034814-1024-1024.webp",
+        "preco": 90.00,
+        "tamanhos": [ "G"],
+        "ano": "24/25",
+        "estoque": 1
+    },
+    {
+        "id":"13",
+        "nome": "Camisa SantosCharlie Brown Junior",
+        "imagem1": "https://dasports.com.br/cdn/shop/files/camisa-santos-202223-charlie-brown-junior-da-sports-oficial-1_700x.jpg?v=1737055041",
+        "imagem2": "https://dasports.com.br/cdn/shop/files/camisa-santos-202223-charlie-brown-junior-da-sports-oficial-9_700x.jpg?v=1737055042",
+        "imagem3": "https://dasports.com.br/cdn/shop/files/camisa-santos-202223-charlie-brown-junior-da-sports-oficial-4_700x.jpg?v=1737055041",
+        "preco": 90.00,
+        "tamanhos": ["P", "M", "G", "GG"],
+        "ano": "22/23",
+        "estoque": 1
+    }
+]
